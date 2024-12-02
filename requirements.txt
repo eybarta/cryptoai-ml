@@ -1,1 +1,1 @@
-test
+{"encoding": "base64", "content": "dGVzdA=="}
